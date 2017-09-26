@@ -1,0 +1,19 @@
+body {
+	padding: 60px;
+	color: #FFF;
+}
+
+body p {
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 0px;
+}
+
+#weather-container p {
+	display: inline;
+}
+
+i {
+	font-size: 80px;
+	padding: 25px;
+}

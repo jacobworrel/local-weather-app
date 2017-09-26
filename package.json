@@ -1,0 +1,19 @@
+{
+  "name": "local-weather-app",
+  "version": "1.0.0",
+  "description": "Local Weather App using Geolocation and the Open Weather Map API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobworrel/local-weather-app.git"
+  },
+  "author": "Jacob Worrel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobworrel/local-weather-app/issues"
+  },
+  "homepage": "https://github.com/jacobworrel/local-weather-app#readme"
+}
